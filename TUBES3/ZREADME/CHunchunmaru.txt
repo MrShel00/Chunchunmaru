@@ -1,0 +1,19 @@
+KELOMPOK CHUNCHUNMARU
+1. Berry Abdul Ghany = 10122334
+2. Hisyam Riqullah = 10122333
+3. Muhammad Taufik Iqbal = 10122336
+4. Tiandri Simatupang = 10122342
+5. Luqsiana Bariq Raihan = 10122328
+
+Tutorial menggunakan website chunchunmaru  :
+1. simpan file yang sudah di download di xampp htdoc 
+2. import query ke php MySQL
+3. setelah di import buka crome lalu ketikan url localhost/TUBES3
+4. lalu bisa akses web seperti biasa
+5. ketika ingin mengakses halaman admin ketikan url localhost/admin
+6. Untuk login masukan username : admin dan password  : admin
+7. lalu halaman admin bisa di akses seperti biasa
+8. di halaman admin bisa ke halaman product untuk menambahkan data, me update  data, dan men delete data
+
+NOTE!!!!
+1. untuk fitur realated item pada tampilan product itu masih tidak berfungsi (nanti akan di update seiring dengan berjalan nya waktu)
